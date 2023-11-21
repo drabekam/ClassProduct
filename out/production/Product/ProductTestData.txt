@@ -1,2 +1,0 @@
-1234567, test, this is a test, 23.45
-2345678, test2, this is a test2, 20.45
